@@ -12,3 +12,4 @@ C:\Users\freed\Downloads\EmployeeManagementSystem\obj\Debug\net8.0\refint\Employ
 C:\Users\freed\Downloads\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
 C:\Users\freed\Downloads\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
 C:\Users\freed\Downloads\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
+C:\Users\freed\Downloads\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json

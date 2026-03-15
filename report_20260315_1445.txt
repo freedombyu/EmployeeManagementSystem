@@ -1,0 +1,35 @@
+╔══════════════════════════════════════════════╗
+║        EMPLOYEE MANAGEMENT SYSTEM REPORT     ║
+║  Generated: 2026-03-15  14:45                    ║
+╚══════════════════════════════════════════════╝
+
+── ALL EMPLOYEES ─────────────────────────────────────────────
+  ID   Name                   Department        Salary/mo Grade      Hired        Status
+  ─────────────────────────────────────────────────────────────────────────────────────
+  1    Alice Johnson          Engineering      $ 12500.00 Executive  2019-03-15   Active
+  2    Bob Martinez           Engineering      $  9800.00 Mid-Level  2020-07-01   Active
+  3    Carol Smith            Marketing        $  7200.00 Mid-Level  2021-01-10   Active
+  4    David Lee              Marketing        $  4500.00 Junior     2023-05-22   Active
+  5    Eva Williams           Human Resources  $  6800.00 Mid-Level  2020-11-30   Active
+  6    Frank Brown            Human Resources  $  4200.00 Junior     2022-08-14   Active
+  7    Grace Davis            Finance          $ 11000.00 Senior     2018-06-05   Active
+  8    Henry Wilson           Finance          $  8500.00 Mid-Level  2021-09-17   Active
+  9    Isabella Moore         Engineering      $  5500.00 Junior     2022-02-28   Active
+  10   James Taylor           Sales            $  6100.00 Mid-Level  2020-04-11   Active
+  11   Karen Anderson         Sales            $  4800.00 Junior     2023-01-03   Active
+  12   Liam Thomas            IT Support       $  4100.00 Junior     2023-10-08   Active
+
+  Total Employees    : 12
+  Active Monthly Pay : $85000.00
+  Annual Payroll     : $1020000.00
+
+── DEPARTMENT BREAKDOWN ──────────────────────────────────────
+  Engineering          |   3 staff | $27800.00/mo
+  Marketing            |   2 staff | $11700.00/mo
+  Human Resources      |   2 staff | $11000.00/mo
+  Finance              |   2 staff | $19500.00/mo
+  Sales                |   2 staff | $10900.00/mo
+  IT Support           |   1 staff | $4100.00/mo
+
+── SALARY HISTORY ────────────────────────────────────────────
+── END OF REPORT ─────────────────────────────────────────────
